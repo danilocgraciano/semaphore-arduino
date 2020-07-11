@@ -9,3 +9,5 @@ Bill of Materials
 - 8 220 Ω Resistor
 - 2 LED Green
 
+![Screenshot](semaphore_circuit.png)
+
