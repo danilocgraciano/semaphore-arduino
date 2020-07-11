@@ -100,7 +100,6 @@ void loop()
   //S2 = Red
   //P1 = 0ff
   //P2 = 0ff
-  
   digitalWrite(2, LOW);
   digitalWrite(12, LOW);
   delay(2000);
