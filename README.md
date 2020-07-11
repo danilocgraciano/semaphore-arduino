@@ -1,2 +1,3 @@
-# semaphore-arduino
-Implementation of semaphore using arduino
+# Semaphore using Arduino Uno
+
+Semaphore using arduino uno developed at https://www.tinkercad.com/
